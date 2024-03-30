@@ -34,11 +34,6 @@ Hand landmark detection is used to identify different guesture and based on this
   # execute the code
   python main.py
 ```
-    
-## Demo
-
-Insert gif or link to demo
-
 
 ## Optimizations
 
